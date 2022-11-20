@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Md. Rakibuzzaman
 - 👀 I’m interested Web development and Competitive Programming
 - 🌱 Full stack Web Developer
-- ❤️ Love to do Front-End
-Now I'm a undergraduate Computer science student at Varendra University
+- ❤️ Love to do Front-End,
+- 🤹🏽 Top skills: (React.js, Next.js, Tailwind css, HTML, css, Redux, Express js, MongoDB)
+- 🎓 Now I'm a undergraduate Computer science student at Varendra University
