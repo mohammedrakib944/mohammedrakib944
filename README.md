@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md. Rakibuzzaman
 - 👀 I’m interested Web development and Competitive Programming
-- 🌱 MERN stack Developer
-
-I'm a CSE student at Varendra University
+- 🌱 Full stack Web Developer
+- ❤️ Love to do Front-End
+Now I'm a undergraduate Computer science student at Varendra University
