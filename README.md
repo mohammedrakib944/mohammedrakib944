@@ -75,8 +75,9 @@ In my free time, I enjoys reading about new web technologies, participating in h
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white"/>
   </a>
-  <br />
-React.js,  Next.js, Redux, 
+ 
+<h4>React.js,  Next.js, Redux </h4>
+ <br />
 
 </p>
 
