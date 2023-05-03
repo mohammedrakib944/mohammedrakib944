@@ -8,8 +8,6 @@ I am a skilled Full Stack Web Developer with expertise in a range of technologie
 
 I have extensive experience in building complex web applications from scratch to production, as well as maintaining and improving existing applications. I am a deep understanding of front-end and back-end development, as well as strong problem-solving skills.
 
-I am a self-motivated and detail-oriented developer who constantly seeks to improve his skills and stay up-to-date with the latest trends and technologies in the field. I have a great team player and enjoy working collaboratively with other developers, designers, and project managers to deliver exceptional results.
-
 In my free time, I enjoys reading about new web technologies, participating in hackathons and online coding challenges, and contributing to open-source projects.
 <br>
 
